@@ -1,2 +1,2 @@
-# ProjetoTestes2018
+# ProjetoTeste2018
 Projeto da disciplina Teste de Software
